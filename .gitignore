@@ -1,3 +1,5 @@
+.env.prod
+.env.prod.swp
 .env.prod.db
 .env.prod.db.swp
 
